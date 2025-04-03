@@ -18,8 +18,8 @@ Puedes ver mi portafolio y proyectos en el siguiente enlace:
 
 ## 📫 Contacto
 Si quieres ponerte en contacto conmigo, puedes escribirme en:
-- 📧 Correo: [miguel.gomez.dev@gmail.com](mailto:miguel.gomez.dev@gmail.com)
-- 💼 LinkedIn: [Miguel Ángel Gómez](https://www.linkedin.com/in/miguelgomezdev/)
+- 📧 Correo: [devmiguelgomez@gmail.com](mailto:devmiguelgomez@gmail.com)
+- 💼 LinkedIn: [Miguel Ángel Gómez](https://www.linkedin.com/in/devmiguelgomez/)
 
 ---
 💡 *Siempre estoy aprendiendo y mejorando mis habilidades. ¡Estoy abierto a nuevas oportunidades y colaboraciones!*
